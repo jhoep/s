@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "token": "",
+  "max_queue_size": 50,
+  "max_song_length": 3600,
+  "default_volume": 0.5
+}
